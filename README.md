@@ -4,10 +4,10 @@
 
 <p align="center">
   
-  <a href="https://travis-ci.org/Jon-Millent/mi-shop" title="Build">
-    <img src="https://api.travis-ci.org/Jon-Millent/mi-shop.svg?branch=master" alt="Build">
+  <a href="https://travis-ci.org/gudanya123/mi-shop" title="Build">
+    <img src="https://api.travis-ci.org/gudanya123/mi-shop.svg?branch=master" alt="Build">
   </a>
-  <a href="https://github.com/Jon-Millent/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="MIT" /></a>
+  <a href="https://github.com/gudanya123/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="MIT" /></a>
   <a href="#">
     <img src="https://img.shields.io/github/package-json/v/jon-millent/mi-shop.svg">
   </a>
@@ -40,7 +40,7 @@ DEMO
 
 ## Install
 ```
-  git clone https://github.com/Jon-Millent/mi-shop.git
+  git clone https://github.com/gudanya123/mi-shop.git
   cd mi-shop
   npm install & yarn
   npm run serve
@@ -66,7 +66,6 @@ DEMO
 * 商品详情
   * 加入购物车
 
-## 请我喝杯咖啡，支持更多开源
-![1024.png](https://i.loli.net/2018/07/25/5b57cb91a44a1.png)
+## 请点个星星鼓励，支持更多开源
 ## LICENSE
-<a href="https://github.com/Jon-Millent/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="MIT" /></a>
+<a href="https://github.com/gudanya123/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-green" alt="MIT" /></a>

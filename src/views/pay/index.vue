@@ -6,9 +6,8 @@
       <p>商城 功能, 布局 由本人实现，图片来源界面布局排版均防自 <span class="color">小米商城 m.mi.com</span></p>
       <br>
       <p>联系我</p>
-      <p>e-mail: millent@126.com</p>
-      <p>github: github.com/jon-millent</p>
-      <p>website: http://verydog.cn</p>
+      <p>e-mail: 18100174744@163.com</p>
+      <p>github: github.com/gudanya123</p>
 
       <br>
       <p>Update on 2019/01/15</p>
